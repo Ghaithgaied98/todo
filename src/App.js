@@ -6,7 +6,7 @@ import ListTack from "./components/ListTack";
 function App() {
   return (
     <div className="App-header">
-      <h1>Let's get some work done!</h1>
+      <h1>write your todo</h1>
       <AddTask />
       <FilterTask />
       <ListTack />
